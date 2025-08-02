@@ -95,6 +95,6 @@ Show what the dashboard looks like.
 -![Policy Overview](https://github.com/sainath-raja/Student_attendence_management_project/blob/main/course_details.png) 
 - ![Claim Trends](https://github.com/sainath-raja/Student_attendence_management_project/blob/main/course_registration.png)  
 - ![Feedback Word Cloud](https://github.com/sainath-raja/Student_attendence_management_project/blob/main/faculty_details.png)
-- ![Claim Trends](https://github.com/sainath-raja/Student_attendence_management_project/blob/main/course_registration.png)  
+- ![Claim Trends](https://github.com/sainath-raja/Student_attendence_management_project/blob/main/session_details.png)  
 - ![Feedback Word Cloud](https://github.com/sainath-raja/Student_attendence_management_project/blob/main/faculty_details.png)
 
