@@ -86,7 +86,7 @@ Manual attendance tracking is error-prone, inefficient, and lacks accessibility.
 
 ## 6. Screenshots / Demos  
 Show what the dashboard looks like.  
-- ![Policy Overview]([https://github.com/sainath-raja/Insurance_Data_Analysis_Pro_2/blob/main/All_Charts.png](https://github.com/sainath-raja/Student_attendence_management_project/blob/main/Screenshot%202025-08-02%20140210.png)) 
+- ![Policy Overview](https://github.com/sainath-raja/Student_attendence_management_project/blob/main/Screenshot%202025-08-02%20140210.png) 
 - ![Claim Trends](https://github.com/sainath-raja/Insurance_Data_Analysis_Pro_2/blob/main/Drill_Through_Page.png)  
 - ![Feedback Word Cloud](https://github.com/sainath-raja/Insurance_Data_Analysis_Pro_2/blob/main/Customer_feedback.png)
 
