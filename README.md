@@ -89,7 +89,10 @@ Show what the dashboard looks like.
 - ![Policy Overview](https://github.com/sainath-raja/Student_attendence_management_project/blob/main/Screenshot%202025-08-02%20140210.png) 
 - ![Claim Trends](https://github.com/sainath-raja/Student_attendence_management_project/blob/main/Semester_Interface.png)  
 - ![Feedback Word Cloud](https://github.com/sainath-raja/Student_attendence_management_project/blob/main/Mark_attendance_Interface.png)
-- - ![Policy Overview](https://github.com/sainath-raja/Student_attendence_management_project/blob/main/Generating_report_Interface.png) 
+- ![Policy Overview](https://github.com/sainath-raja/Student_attendence_management_project/blob/main/Generating_report_Interface.png) 
 - ![Claim Trends](https://github.com/sainath-raja/Student_attendence_management_project/blob/main/attendence%20details.png)  
-- ![Feedback Word Cloud](https://github.com/sainath-raja/Student_attendence_management_project/blob/main/Mark_attendance_Interface.png)
+- ![Feedback Word Cloud](https://github.com/sainath-raja/Student_attendence_management_project/blob/main/course_allotment.png)
+-![Policy Overview](https://github.com/sainath-raja/Student_attendence_management_project/blob/main/Generating_report_Interface.png) 
+- ![Claim Trends](https://github.com/sainath-raja/Student_attendence_management_project/blob/main/attendence%20details.png)  
+- ![Feedback Word Cloud](https://github.com/sainath-raja/Student_attendence_management_project/blob/main/course_allotment.png)
 
